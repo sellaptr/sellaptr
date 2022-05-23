@@ -2,7 +2,7 @@
 
 <img align="right" height="200" alt="GIF" src="https://media.itsnicethat.com/original_images/giphy-2021-gifs-and-clips-animation-itsnicethat-02.gif" />
 
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started: -->
 
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
