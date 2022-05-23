@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, Sella here!! 👋
 
 <img align="right" height="200" alt="GIF" src="https://media.itsnicethat.com/original_images/giphy-2021-gifs-and-clips-animation-itsnicethat-02.gif" />
 
